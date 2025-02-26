@@ -9,6 +9,11 @@ Translate RTL code into a graph form.
 Trained a Graph Neural Network (GNN) for predicting combinational depth.
 
 Employed the OpenABC-D dataset and rtl_timing_dataset as training data.
+**Dataset**
+1.## Dataset Download
+The OpenABC-D dataset can be downloaded from [(https://drive.google.com/drive/folders/15UhMvJZHTl7cOC9G7dDcaNcpDvAOg4UE?usp=drive_link)]
+2.rtl_timing_dataset can be downloaded from [(https://drive.google.com/drive/folders/1q_S_qpzXi4-SJzSCS5rnog1MMF9YUOVR?usp=drive_link)]
+
 
 **proof of correctness**
 
