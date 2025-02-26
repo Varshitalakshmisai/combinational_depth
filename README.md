@@ -1,5 +1,15 @@
 # combinational_depth
 Predicting combinational depth of RTL modules using GNN
+
+Combinational depth prediction in RTL circuits is important for catching possible timing violations.
+This project seeks to:
+
+Translate RTL code into a graph form.
+
+Trained a Graph Neural Network (GNN) for predicting combinational depth.
+
+Employed the OpenABC-D dataset and rtl_timing_dataset as training data.
+
 **proof of correctness**
 
 The following guidelines are used in our method to accurately calculate the combinational depth:
